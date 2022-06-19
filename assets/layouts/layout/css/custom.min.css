@@ -1,0 +1,47 @@
+.col-md-remove{ padding-left:0; margin-top:6px;}.col-md-remove a .fa{ color:#F00}#calculations .col-md-4{margin-bottom:15px;}
+
+
+#pincode-tbl_filter { text-align: left;float: left;}
+#pincode-tbl_paginate.dataTables_paginate { float: right !important; }
+#pincode-tbl_paginate.dataTables_paginate { float: right !important; }
+#pincode-tbl .bootstrap-datetimepicker-widget table td,.bootstrap-datetimepicker-widget table th{padding:2px !important;width:10px}
+
+#property_category-tbl_filter { text-align: left;float: left;}
+#property_category-tbl_paginate.dataTables_paginate { float: right !important; }
+#property_category-tbl_paginate.dataTables_paginate { float: right !important; }
+#property_category-tbl .bootstrap-datetimepicker-widget table td,.bootstrap-datetimepicker-widget table th{padding:2px !important;width:10px}
+
+#amenities-tbl_filter { text-align: left;float: left;}
+#amenities-tbl_paginate.dataTables_paginate { float: right !important; }
+#amenities-tbl_paginate.dataTables_paginate { float: right !important; }
+#amenities-tbl .bootstrap-datetimepicker-widget table td,.bootstrap-datetimepicker-widget table th{padding:2px !important;width:10px}
+
+#verification-tbl_filter { text-align: left;float: left;}
+#verification-tbl_paginate.dataTables_paginate { float: right !important; }
+#verification-tbl_paginate.dataTables_paginate { float: right !important; }
+#verification-tbl .bootstrap-datetimepicker-widget table td,.bootstrap-datetimepicker-widget table th{padding:2px !important;width:10px}
+
+#users-tbl_filter { text-align: left;float: left;}
+#users-tbl_paginate.dataTables_paginate { float: right !important; }
+#users-tbl_paginate.dataTables_paginate { float: right !important; }
+#users-tbl .bootstrap-datetimepicker-widget table td,.bootstrap-datetimepicker-widget table th{padding:2px !important;width:10px}
+
+#active_properties-tbl_filter { text-align: left;float: left;}
+#active_properties-tbl_paginate.dataTables_paginate { float: right !important; }
+#active_properties-tbl_paginate.dataTables_paginate { float: right !important; }
+#active_properties-tbl .bootstrap-datetimepicker-widget table td,.bootstrap-datetimepicker-widget table th{padding:2px !important;width:10px}
+
+.col-md-remove{padding-left:0;margin-top:6px;} .col-md-remove a .fa{ color:#F00}
+.control-label{font-weight:600;color:#3979b2;}.form-control{background-color:#E9EDEF;}
+.form-horizontal .control-label{padding-top:4px;text-align:left;}
+.form-horizontal .sp-label{padding-top:4px;}
+.form-horizontal .contact-form-group{margin-bottom:0px;margin-left:0px;}
+table.dataTable th.cw-col-title{font-size:12px;font-weight:500;padding:6px 4px;}
+table.dataTable tbody .even td,table.dataTable tbody .odd td{padding:4px 4px;}
+table.dataTable tbody .even td .fa,table.dataTable tbody .odd td .fa{padding-left:2px;padding-right:2px;}
+table.cw-tab-srchtable{margin-bottom:5px;}
+table.cw-tab-srchtable thead th,table.cw-tab-srchtable tbody td{padding:4px;}
+.cw-tab-linksrch{margin-bottom:10px;}
+#checkin-tbl td{font-size:12px;}
+td.filter-cw-td{ padding:5px !important;}
+button.filter-submit, button.filter-cancel{ margin-right:0px !important;}

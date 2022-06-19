@@ -1,0 +1,133 @@
+.page-content-wrapper .page-content {
+  margin-left: 0;
+}
+.pdf-application .sect-folders,
+.pdf-application .sect-pdf,
+.pdf-application .sect-edit {
+  display: inline-block;
+  margin: 0 30px 0 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.pdf-application .sect-folders h4,
+.pdf-application .sect-pdf h4,
+.pdf-application .sect-edit h4 {
+  margin: 0 0 20px 0;
+  color: #619be0;
+  font-family: 'Arial', Sans-serif;
+  font-weight: 400;
+  font-size: 15px;
+  text-align: center;
+  overflow: hidden;
+}
+.pdf-application .sect-folders h4 span,
+.pdf-application .sect-pdf h4 span,
+.pdf-application .sect-edit h4 span {
+  display: inline-block;
+  position: relative;
+}
+.pdf-application .sect-folders h4 span:before,
+.pdf-application .sect-pdf h4 span:before,
+.pdf-application .sect-edit h4 span:before,
+.pdf-application .sect-folders h4 span:after,
+.pdf-application .sect-pdf h4 span:after,
+.pdf-application .sect-edit h4 span:after {
+  content: "";
+  position: absolute;
+  height: 1px;
+  background: #f4f4f4;
+  top: 50%;
+  width: 700px;
+}
+.pdf-application .sect-folders h4 span:before,
+.pdf-application .sect-pdf h4 span:before,
+.pdf-application .sect-edit h4 span:before {
+  right: 100%;
+  margin-right: 10px;
+}
+.pdf-application .sect-folders h4 span:after,
+.pdf-application .sect-pdf h4 span:after,
+.pdf-application .sect-edit h4 span:after {
+  left: 100%;
+  margin-left: 10px;
+}
+.pdf-application .sect-folders li,
+.pdf-application .sect-pdf li,
+.pdf-application .sect-edit li {
+  list-style: none;
+  display: inline;
+  width: 70px;
+  float: left;
+  text-align: center;
+  box-sizing: border-box;
+}
+.pdf-application .sect-folders li a label,
+.pdf-application .sect-pdf li a label,
+.pdf-application .sect-edit li a label {
+  display: block;
+  text-align: center;
+  font-family: 'Arial', Sans-serif;
+  font-size: 12px;
+  color: #808080;
+  margin: 5px 0 0 0;
+  cursor: pointer;
+}
+.pdf-application .sect-folders li a:hover,
+.pdf-application .sect-pdf li a:hover,
+.pdf-application .sect-edit li a:hover {
+  text-decoration: none;
+}
+.pdf-application .sect-folders li a:hover label,
+.pdf-application .sect-pdf li a:hover label,
+.pdf-application .sect-edit li a:hover label {
+  color: #333;
+}
+.pdf-application .sect-folders {
+  position: relative;
+}
+.pdf-application .sect-folders li {
+  width: 53px;
+  margin-right: 40px;
+}
+.pdf-application .sect-folders li a span {
+  display: block;
+}
+.pdf-application .sect-folders li:last-child {
+  margin: 0;
+}
+.pdf-application .sect-folders:after {
+  position: absolute;
+  content: "";
+  background: #f4f4f4;
+  width: 1px;
+  height: 70%;
+  top: 20%;
+  right: -20px;
+}
+.pdf-application .sect-pdf {
+  position: relative;
+}
+.pdf-application .sect-pdf li {
+  margin-right: 15px;
+}
+.pdf-application .sect-pdf li:last-child {
+  margin: 0;
+}
+.pdf-application .sect-pdf:after {
+  position: absolute;
+  content: "";
+  background: #f4f4f4;
+  width: 1px;
+  height: 70%;
+  top: 20%;
+  right: -20px;
+}
+.pdf-application .sect-edit {
+  margin-right: 0;
+}
+.pdf-application .sect-edit li {
+  margin-right: 15px;
+}
+.pdf-application .sect-edit li:last-child {
+  margin: 0;
+}
